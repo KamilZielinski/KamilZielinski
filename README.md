@@ -1,6 +1,6 @@
 ### Hi there, I'm Kamil 😃
 <p align="left">
-  <a href="https://www.linkedin.com/in/timoliver-au/">
+  <a href="https://www.linkedin.com/in/kamildevzielinski/">
   <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 </p>
 
