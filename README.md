@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Kamil 😃
+<p align="left">
+  <a href="https://www.linkedin.com/in/timoliver-au/">
+  <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+</p>
 
-<!--
-**KamilZielinski/KamilZielinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☕ Software engineer specializing in [Java](https://www.java.com/en/download/help/whatis_java.html) & [Spring Boot](https://spring.io/why-spring).
+- 🇵🇱 Moving from one place to another but currently in [Katowice, Poland](https://katowice.naszemiasto.pl/)
+- 🎮 Love playing FPS games like [Valorant](https://playvalorant.com/) or [Overwatch 2](https://overwatch.blizzard.com)
+- 🌱 Working on an ASMR project in my free time that will be released "soon"
+- 😁 Nice to meet you!
