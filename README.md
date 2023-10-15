@@ -5,7 +5,7 @@
 </p>
 
 - ☕ Software engineer specializing in [Java](https://www.java.com/en/download/help/whatis_java.html) & [Spring Boot](https://spring.io/why-spring).
-- 🇵🇱 Moving from one place to another but currently in [Katowice, Poland](https://katowice.naszemiasto.pl/)
+- 🇵🇱 Moving from one place to another but currently: Somewhere in Poland
 - 🎮 Love playing FPS games like [Valorant](https://playvalorant.com/) or [Overwatch 2](https://overwatch.blizzard.com)
-- 🌱 Working on an ASMR project in my free time that will be released "soon"
+- 🌱 Working on an ASMR project in my free time that will be released "soon-ish"
 - 😁 Nice to meet you!
