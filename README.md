@@ -9,3 +9,6 @@
 - 🎮 Love playing FPS games like [Valorant](https://playvalorant.com/) or [Overwatch 2](https://overwatch.blizzard.com)
 - 📈 Working on a game tracker in my free time (which is "almost done")
 - 😁 Nice to meet you!
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/KamilZielinski/KamilZielinski/assets/6136794/402888e0-5df3-4f9c-be6e-e1c12662386a');]{x0000}$}
